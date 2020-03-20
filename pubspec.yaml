@@ -1,8 +1,8 @@
 name: flutter_shaded_text
 description: A new Flutter package.
 version: 0.0.1
-author:
-homepage:
+author: Xusu<xusubest@qq.com>
+homepage: https://github.com/IOXusu/flutter_shaded_text
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
